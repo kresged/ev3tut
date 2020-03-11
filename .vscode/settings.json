@@ -1,0 +1,7 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+	"files.eol": "\n",
+	"ev3devBrowser.download.exclude": "{**/.*,README.md}",
+	"ev3devBrowser.download.directory": "doug/ev3tut",
+	"python.autoComplete.extraPaths": ["./libs"]
+}
